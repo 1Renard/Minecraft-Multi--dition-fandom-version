@@ -1,0 +1,2 @@
+# Minecraft-Multi--dition-fandom-version
+Minecraft Multi-édition fandom version et un projets qui consiste à créé un programme capable d'analyser la version Minecraft qu'utilise un tiers utilisateur pour en simulé la version et pouvoir jouer avec ceux dernier.à noté que cette version n'est pas officiel et n'est pas rattaché à Microsoft qui détient les droits sur le Label Minecraft. Il vous faudra tout de même vous munir d'un compte Minecraft. PS : projet en cours pour le moment.
